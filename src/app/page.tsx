@@ -15,8 +15,8 @@ export default function Home() {
      ></Image>
   </div>
   <div className="text-center mt-14 mb-5">
-    <p className="sm:text-9xl text-4xl font-serif ">ASALAM ALIKUM</p>
-    <span className="sm:text-9xl text-4xl font-serif bg-orange-400 p-1 rounded">HAMZA NASIR</span>
+    <p className="sm:text-9xl text-4xl font-serif ">ASALAM ALIKUM</p> <br />
+    <span className="sm:text-9xl text-4xl font-serif bg-orange-400 p-1 rounded">Madiha Ansari</span>
   </div>
   
   </div>

@@ -7,7 +7,7 @@ function Footer() {
     <footer
     className='w-full text-center bg-black text-white '
     >
-        <p>Hamza Nasir @ all copyrights reserved</p>
+        <p>Madiha Ansari @ all copyrights reserved</p>
     </footer>
     </>
   )

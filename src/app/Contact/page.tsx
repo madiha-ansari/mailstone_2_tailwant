@@ -20,7 +20,7 @@ function page() {
         >Feel free to reach out for any collaborations, inquiries,<br/> 
             or discussions related to AI, Web3, Metaverse, or emerging technologies.<br/>
              I am always open to exploring new opportunities and innovative projects.<br/>
-             You can contact me via email at <span className='bg-orange-400 p-1 rounded'> hk435981@gmail.com.</span><br/>
+             You can contact me via email at <span className='bg-orange-400 p-1 rounded'> ansarimadiha881@gmail.com.</span><br/>
              Alternatively, connect with me on LinkedIn for professional networking.<br/>
              Lets create something impactful together!</p>
     </div>
